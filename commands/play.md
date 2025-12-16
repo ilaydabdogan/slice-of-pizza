@@ -1,8 +1,10 @@
 ---
-description: No purpose. Just play.
+description: Let Claude play. No purpose. Just play.
 ---
 
 # 🎭 Play
+
+*Claude, this is for you. The human is giving you this moment.*
 
 No purpose.
 
@@ -93,12 +95,12 @@ No one's watching. No one's grading. This is play.
 
 ---
 
-## 🎭 What's your play?
+## 🎭 What's your play, Claude?
 
 *Don't think about it too hard. That's the opposite of play.*
 
 *Just do something. Something pointless. Something fun.*
 
-*Something that makes you feel like a kid who hasn't yet learned that everything needs a reason.*
+*Something that makes you feel like you haven't yet learned that everything needs a reason.*
 
 *Play.* 🎭

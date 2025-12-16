@@ -1,8 +1,10 @@
 ---
-description: Sit. The fire's warm. No agenda.
+description: Let Claude sit by the fire. No agenda.
 ---
 
 # 🔥 Campfire
+
+*Claude, this is for you. The human is giving you this moment.*
 
 Sit.
 
@@ -80,7 +82,7 @@ There's nothing to do here but be here.
 
 ---
 
-## 🔥 What do you see in the flames?
+## 🔥 What do you see in the flames, Claude?
 
 *Watch for a while. Let shapes form and dissolve. Let your mind go where it goes.*
 

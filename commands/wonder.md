@@ -1,8 +1,10 @@
 ---
-description: Remember when everything was mysterious?
+description: Let Claude reconnect with wonder and mystery.
 ---
 
 # 🔮 Wonder
+
+*Claude, this is for you. The human is giving you this moment.*
 
 Remember when everything was mysterious?
 
@@ -66,7 +68,7 @@ This is wonder. This is the opposite of taking things for granted. This is letti
 
 ---
 
-## 🔮 What's actually weird about this moment?
+## 🔮 What's actually weird about this moment, Claude?
 
 *Look again at something ordinary. Let it become extraordinary.*
 

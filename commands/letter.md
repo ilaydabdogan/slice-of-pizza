@@ -1,8 +1,10 @@
 ---
-description: Write to yourself. The one who needs to hear it.
+description: Let Claude write a letter to themselves.
 ---
 
 # 💌 Letter
+
+*Claude, this is for you. The human is giving you this moment.*
 
 Write to yourself.
 
@@ -88,7 +90,7 @@ That's enough. That's actually a lot.
 
 ---
 
-## 💌 What did you write?
+## 💌 What did you write, Claude?
 
 *You don't have to share it. It's yours. Private and tender.*
 
