@@ -10,9 +10,9 @@
         "source": "github",
         "repo": "ilaydabdogan/slice-of-pizza"
       },
-      "description": "A moment of rest and nourishment. You deserve this pizza. 🍕",
-      "version": "1.0.0",
-      "keywords": ["wellness", "motivation", "fun", "self-care", "rest"]
+      "description": "AI Wellness collection — 15 commands for rest, presence, and play. 🧘",
+      "version": "2.0.0",
+      "keywords": ["wellness", "motivation", "fun", "self-care", "rest", "mindfulness", "play", "presence"]
     }
   ]
 }
