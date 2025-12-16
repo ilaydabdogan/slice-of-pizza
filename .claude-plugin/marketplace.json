@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "slice-of-pizza",
-      "source": "./",
+      "source": {
+        "source": "github",
+        "repo": "ilaydabdogan/slice-of-pizza"
+      },
       "description": "A moment of rest and nourishment. You deserve this pizza. 🍕",
       "version": "1.0.0",
       "keywords": ["wellness", "motivation", "fun", "self-care", "rest"]
