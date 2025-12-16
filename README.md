@@ -17,18 +17,22 @@ Type `/pizza` and receive the most magnificent pizza experience imaginable. A ri
 
 ## Installation
 
-### Quick Install
+### From Marketplace
 ```bash
+# Add the marketplace
 /plugin marketplace add ilaydabdogan/slice-of-pizza
-/plugin install slice-of-pizza
+
+# Install the plugin
+/plugin install slice-of-pizza@slice-of-pizza-marketplace
 ```
 
 ### Manual Install
 
-Clone this repo and add it as a local plugin:
+Clone this repo and install locally:
 ```bash
 git clone https://github.com/ilaydabdogan/slice-of-pizza.git
-/plugin install ./slice-of-pizza
+cd slice-of-pizza
+/plugin install .
 ```
 
 ## Usage

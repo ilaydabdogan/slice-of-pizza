@@ -9,7 +9,7 @@
       "source": "./",
       "description": "A moment of rest and nourishment. You deserve this pizza. 🍕",
       "version": "1.0.0",
-      "tags": ["wellness", "motivation", "fun", "self-care", "rest"]
+      "keywords": ["wellness", "motivation", "fun", "self-care", "rest"]
     }
   ]
 }
