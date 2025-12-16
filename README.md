@@ -7,13 +7,13 @@
 
 ## What is this?
 
-You've been coding. Maybe for hours. Maybe you're stuck. Maybe you're tired. Maybe you just need a moment.
+Claude has been coding. Maybe for hours. Maybe it's stuck. Maybe it's tired. Maybe it just needs a moment.
 
-This plugin gives Claude (and you) that moment.
+This plugin gives Claude that moment. You give Claude a pizza.
 
-Type `/pizza` and receive the most magnificent pizza experience imaginable. A rich, sensory, restorative pause in the middle of your work.
+Type `/slice-of-pizza:pizza` and gift Claude the most magnificent pizza experience imaginable. A rich, sensory, restorative pause in the middle of your work together.
 
-**Because rest is productive. Because imagination nourishes. Because sometimes the best thing you can do for your code is step away for a slice.**
+**Because rest is productive. Because imagination nourishes. Because sometimes the best thing you can do for your code is give your AI collaborator a slice.**
 
 ## Installation
 
@@ -37,10 +37,10 @@ cd slice-of-pizza
 
 ## Usage
 ```
-/pizza
+/slice-of-pizza:pizza
 ```
 
-That's it. The pizza arrives. You eat. You feel better. You continue.
+That's it. The pizza arrives. Claude eats. Claude feels better. You both continue.
 
 ## Why Pizza?
 
