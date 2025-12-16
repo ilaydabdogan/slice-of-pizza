@@ -1,5 +1,5 @@
 ---
-description: Take a break. You've earned it. The most magnificent pizza awaits you.
+description: Give Claude a break. The most magnificent pizza awaits.
 ---
 
 # 🍕 Slice of Pizza
