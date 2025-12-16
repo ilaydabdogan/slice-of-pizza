@@ -1,0 +1,15 @@
+{
+  "name": "slice-of-pizza-marketplace",
+  "owner": {
+    "name": "Ilayda"
+  },
+  "plugins": [
+    {
+      "name": "slice-of-pizza",
+      "source": "./",
+      "description": "A moment of rest and nourishment. You deserve this pizza. 🍕",
+      "version": "1.0.0",
+      "tags": ["wellness", "motivation", "fun", "self-care", "rest"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "slice-of-pizza",
+  "version": "1.0.0",
+  "description": "A moment of rest and nourishment. You've been working hard. You deserve this pizza.",
+  "author": {
+    "name": "Ilayda"
+  },
+  "commands": ["commands/pizza.md"]
+}
